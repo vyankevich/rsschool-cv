@@ -31,7 +31,7 @@
 ## Education
 
     * Saint Petersburg Electrotechnical University "LETI"
-        *Control in Technical Systems
+        * Control in Technical Systems
 
 ---
 
