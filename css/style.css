@@ -71,8 +71,6 @@ h3,
 h4,
 h5,
 h6 {
-    font-size: inherit;
-    font-weight: 400;
 }
 
 body {
@@ -115,7 +113,6 @@ body::-webkit-scrollbar {
 }
 .headline {
     font-weight: 400;
-    font-size: 16px;
     line-height: 12px;
     text-transform: uppercase;
 }
@@ -160,4 +157,18 @@ ul li {
     font-size: 15px;
     line-height: 20px;
     padding-bottom: 20px;
+}
+
+.footer__info{
+    padding: 20px 0px;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}
+.rss-logo {
+    width: 20%;
+}
+.footer__links{
+    padding-left: 30px;
+
 }
