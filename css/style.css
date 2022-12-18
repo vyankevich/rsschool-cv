@@ -94,6 +94,7 @@ body::-webkit-scrollbar {
     max-width: 800px;
     margin: 0 auto;
     background: #F8F8F8;
+    box-shadow: 10px 10px 40px -1px rgb(0 0 0 / 23%);
 }
 .main__container {
     padding: 54px 30px 0px 30px;
@@ -134,9 +135,13 @@ ul li {
     font-weight: 400;
     font-size: 40px;
     line-height: 38px;
-    padding-top: 35px;
-    padding-bottom: 30px;
 }
+
+.name__title2 {
+    display: none;
+}
+
+
 .about-me__info{
     margin-top: 25px;
     display: grid;
