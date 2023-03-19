@@ -123,6 +123,9 @@ body::-webkit-scrollbar {
     width: 100%;
     border: 0.5px solid black;
 }
+a {
+    color: black;
+}
 ul li {
     padding-bottom: 15px;
 }
